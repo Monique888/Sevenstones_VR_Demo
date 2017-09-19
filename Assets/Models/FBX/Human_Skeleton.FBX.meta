@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 09b315189111c924e8120e69a5b484c4
+timeCreated: 1505837149
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: L_Skeletal_Calcaneus
+    100004: L_Skeletal_Carpal
+    100006: L_Skeletal_Clavicle
+    100008: L_Skeletal_Femur
+    100010: L_Skeletal_Humerus
+    100012: L_Skeletal_Malleolus
+    100014: L_Skeletal_Metatarsal_00
+    100016: L_Skeletal_Metatarsal_01
+    100018: L_Skeletal_Metatarsal_02
+    100020: L_Skeletal_Metatarsal_03
+    100022: L_Skeletal_Metatarsal_04
+    100024: L_Skeletal_Patella
+    100026: L_Skeletal_Phalanges_Foot_00
+    100028: L_Skeletal_Phalanges_Foot_01
+    100030: L_Skeletal_Phalanges_Foot_02
+    100032: L_Skeletal_Phalanges_Foot_03
+    100034: L_Skeletal_Phalanges_Foot_04
+    100036: L_Skeletal_Phalanges_Foot_05
+    100038: L_Skeletal_Phalanges_Foot_06
+    100040: L_Skeletal_Phalanges_Foot_07
+    100042: L_Skeletal_Phalanges_Foot_08
+    100044: L_Skeletal_Phalanges_Foot_09
+    100046: L_Skeletal_Phalanges_Hand_00
+    100048: L_Skeletal_Phalanges_Hand_01
+    100050: L_Skeletal_Phalanges_Hand_02
+    100052: L_Skeletal_Phalanges_Hand_03
+    100054: L_Skeletal_Phalanges_Hand_04
+    100056: L_Skeletal_Phalanges_Hand_05
+    100058: L_Skeletal_Phalanges_Hand_06
+    100060: L_Skeletal_Phalanges_Hand_07
+    100062: L_Skeletal_Phalanges_Hand_08
+    100064: L_Skeletal_Phalanges_Hand_09
+    100066: L_Skeletal_Phalanges_Hand_10
+    100068: L_Skeletal_Phalanges_Hand_11
+    100070: L_Skeletal_Phalanges_Hand_12
+    100072: L_Skeletal_Phalanges_Hand_13
+    100074: L_Skeletal_Phalanges_Hand_14
+    100076: L_Skeletal_Phalanges_Hand_15
+    100078: L_Skeletal_Scapula
+    100080: L_Skeletal_Tarsal
+    100082: L_Skeletal_Tibia
+    100084: L_Skeletal_Ulna/Radius
+    100086: R_Skeletal_Calcaneus
+    100088: R_Skeletal_Carpal
+    100090: R_Skeletal_Clavicle
+    100092: R_Skeletal_Femur
+    100094: R_Skeletal_Humerus
+    100096: R_Skeletal_Malleolus
+    100098: R_Skeletal_Metatarsal_00
+    100100: R_Skeletal_Metatarsal_01
+    100102: R_Skeletal_Metatarsal_02
+    100104: R_Skeletal_Metatarsal_03
+    100106: R_Skeletal_Metatarsal_04
+    100108: R_Skeletal_Patella
+    100110: R_Skeletal_Phalanges_Foot_00
+    100112: R_Skeletal_Phalanges_Foot_01
+    100114: R_Skeletal_Phalanges_Foot_02
+    100116: R_Skeletal_Phalanges_Foot_03
+    100118: R_Skeletal_Phalanges_Foot_04
+    100120: R_Skeletal_Phalanges_Foot_05
+    100122: R_Skeletal_Phalanges_Foot_06
+    100124: R_Skeletal_Phalanges_Foot_07
+    100126: R_Skeletal_Phalanges_Foot_08
+    100128: R_Skeletal_Phalanges_Foot_09
+    100130: R_Skeletal_Phalanges_Hand_00
+    100132: R_Skeletal_Phalanges_Hand_01
+    100134: R_Skeletal_Phalanges_Hand_02
+    100136: R_Skeletal_Phalanges_Hand_03
+    100138: R_Skeletal_Phalanges_Hand_04
+    100140: R_Skeletal_Phalanges_Hand_05
+    100142: R_Skeletal_Phalanges_Hand_06
+    100144: R_Skeletal_Phalanges_Hand_07
+    100146: R_Skeletal_Phalanges_Hand_08
+    100148: R_Skeletal_Phalanges_Hand_09
+    100150: R_Skeletal_Phalanges_Hand_10
+    100152: R_Skeletal_Phalanges_Hand_11
+    100154: R_Skeletal_Phalanges_Hand_12
+    100156: R_Skeletal_Phalanges_Hand_13
+    100158: R_Skeletal_Phalanges_Hand_14
+    100160: R_Skeletal_Phalanges_Hand_15
+    100162: R_Skeletal_Scapula
+    100164: R_Skeletal_Tarsal
+    100166: R_Skeletal_Tibia
+    100168: R_Skeletal_Ulna/Radius
+    100170: Skeletal_Cervical_Vertebra
+    100172: Skeletal_Cranium
+    100174: Skeletal_Mandible
+    100176: Skeletal_Pelvis
+    100178: Skeletal_Pubis
+    100180: Skeletal_Ribs
+    100182: Skeletal_Sacrum
+    100184: Skeletal_Sternum
+    100186: Skeletal_Vertebral_Column
+    100188: SMan0001-HD2-Bip001
+    100190: SMan0001-HD2-Head001
+    100192: SMan0001-HD2-L Calf001
+    100194: SMan0001-HD2-L Clavicle001
+    100196: SMan0001-HD2-L Finger043
+    100198: SMan0001-HD2-L Finger044
+    100200: SMan0001-HD2-L Finger045
+    100202: SMan0001-HD2-L Finger046
+    100204: SMan0001-HD2-L Finger047
+    100206: SMan0001-HD2-L Finger048
+    100208: SMan0001-HD2-L Finger049
+    100210: SMan0001-HD2-L Finger050
+    100212: SMan0001-HD2-L Finger051
+    100214: SMan0001-HD2-L Finger052
+    100216: SMan0001-HD2-L Finger053
+    100218: SMan0001-HD2-L Finger054
+    100220: SMan0001-HD2-L Finger055
+    100222: SMan0001-HD2-L Finger056
+    100224: SMan0001-HD2-L Finger057
+    100226: SMan0001-HD2-L Foot001
+    100228: SMan0001-HD2-L Forearm001
+    100230: SMan0001-HD2-L Hand001
+    100232: SMan0001-HD2-L Thigh001
+    100234: SMan0001-HD2-L UpperArm001
+    100236: SMan0001-HD2-Neck002
+    100238: SMan0001-HD2-Neck003
+    100240: SMan0001-HD2-Pelvis001
+    100242: SMan0001-HD2-R Calf001
+    100244: SMan0001-HD2-R Clavicle001
+    100246: SMan0001-HD2-R Finger043
+    100248: SMan0001-HD2-R Finger044
+    100250: SMan0001-HD2-R Finger045
+    100252: SMan0001-HD2-R Finger046
+    100254: SMan0001-HD2-R Finger047
+    100256: SMan0001-HD2-R Finger048
+    100258: SMan0001-HD2-R Finger049
+    100260: SMan0001-HD2-R Finger050
+    100262: SMan0001-HD2-R Finger051
+    100264: SMan0001-HD2-R Finger052
+    100266: SMan0001-HD2-R Finger053
+    100268: SMan0001-HD2-R Finger054
+    100270: SMan0001-HD2-R Finger055
+    100272: SMan0001-HD2-R Finger056
+    100274: SMan0001-HD2-R Finger057
+    100276: SMan0001-HD2-R Foot001
+    100278: SMan0001-HD2-R Forearm001
+    100280: SMan0001-HD2-R Hand001
+    100282: SMan0001-HD2-R Thigh001
+    100284: SMan0001-HD2-R UpperArm001
+    100286: SMan0001-HD2-Spine004
+    100288: SMan0001-HD2-Spine005
+    100290: SMan0001-HD2-Spine006
+    100292: SMan0001-HD2-Spine007
+    400000: //RootNode
+    400002: L_Skeletal_Calcaneus
+    400004: L_Skeletal_Carpal
+    400006: L_Skeletal_Clavicle
+    400008: L_Skeletal_Femur
+    400010: L_Skeletal_Humerus
+    400012: L_Skeletal_Malleolus
+    400014: L_Skeletal_Metatarsal_00
+    400016: L_Skeletal_Metatarsal_01
+    400018: L_Skeletal_Metatarsal_02
+    400020: L_Skeletal_Metatarsal_03
+    400022: L_Skeletal_Metatarsal_04
+    400024: L_Skeletal_Patella
+    400026: L_Skeletal_Phalanges_Foot_00
+    400028: L_Skeletal_Phalanges_Foot_01
+    400030: L_Skeletal_Phalanges_Foot_02
+    400032: L_Skeletal_Phalanges_Foot_03
+    400034: L_Skeletal_Phalanges_Foot_04
+    400036: L_Skeletal_Phalanges_Foot_05
+    400038: L_Skeletal_Phalanges_Foot_06
+    400040: L_Skeletal_Phalanges_Foot_07
+    400042: L_Skeletal_Phalanges_Foot_08
+    400044: L_Skeletal_Phalanges_Foot_09
+    400046: L_Skeletal_Phalanges_Hand_00
+    400048: L_Skeletal_Phalanges_Hand_01
+    400050: L_Skeletal_Phalanges_Hand_02
+    400052: L_Skeletal_Phalanges_Hand_03
+    400054: L_Skeletal_Phalanges_Hand_04
+    400056: L_Skeletal_Phalanges_Hand_05
+    400058: L_Skeletal_Phalanges_Hand_06
+    400060: L_Skeletal_Phalanges_Hand_07
+    400062: L_Skeletal_Phalanges_Hand_08
+    400064: L_Skeletal_Phalanges_Hand_09
+    400066: L_Skeletal_Phalanges_Hand_10
+    400068: L_Skeletal_Phalanges_Hand_11
+    400070: L_Skeletal_Phalanges_Hand_12
+    400072: L_Skeletal_Phalanges_Hand_13
+    400074: L_Skeletal_Phalanges_Hand_14
+    400076: L_Skeletal_Phalanges_Hand_15
+    400078: L_Skeletal_Scapula
+    400080: L_Skeletal_Tarsal
+    400082: L_Skeletal_Tibia
+    400084: L_Skeletal_Ulna/Radius
+    400086: R_Skeletal_Calcaneus
+    400088: R_Skeletal_Carpal
+    400090: R_Skeletal_Clavicle
+    400092: R_Skeletal_Femur
+    400094: R_Skeletal_Humerus
+    400096: R_Skeletal_Malleolus
+    400098: R_Skeletal_Metatarsal_00
+    400100: R_Skeletal_Metatarsal_01
+    400102: R_Skeletal_Metatarsal_02
+    400104: R_Skeletal_Metatarsal_03
+    400106: R_Skeletal_Metatarsal_04
+    400108: R_Skeletal_Patella
+    400110: R_Skeletal_Phalanges_Foot_00
+    400112: R_Skeletal_Phalanges_Foot_01
+    400114: R_Skeletal_Phalanges_Foot_02
+    400116: R_Skeletal_Phalanges_Foot_03
+    400118: R_Skeletal_Phalanges_Foot_04
+    400120: R_Skeletal_Phalanges_Foot_05
+    400122: R_Skeletal_Phalanges_Foot_06
+    400124: R_Skeletal_Phalanges_Foot_07
+    400126: R_Skeletal_Phalanges_Foot_08
+    400128: R_Skeletal_Phalanges_Foot_09
+    400130: R_Skeletal_Phalanges_Hand_00
+    400132: R_Skeletal_Phalanges_Hand_01
+    400134: R_Skeletal_Phalanges_Hand_02
+    400136: R_Skeletal_Phalanges_Hand_03
+    400138: R_Skeletal_Phalanges_Hand_04
+    400140: R_Skeletal_Phalanges_Hand_05
+    400142: R_Skeletal_Phalanges_Hand_06
+    400144: R_Skeletal_Phalanges_Hand_07
+    400146: R_Skeletal_Phalanges_Hand_08
+    400148: R_Skeletal_Phalanges_Hand_09
+    400150: R_Skeletal_Phalanges_Hand_10
+    400152: R_Skeletal_Phalanges_Hand_11
+    400154: R_Skeletal_Phalanges_Hand_12
+    400156: R_Skeletal_Phalanges_Hand_13
+    400158: R_Skeletal_Phalanges_Hand_14
+    400160: R_Skeletal_Phalanges_Hand_15
+    400162: R_Skeletal_Scapula
+    400164: R_Skeletal_Tarsal
+    400166: R_Skeletal_Tibia
+    400168: R_Skeletal_Ulna/Radius
+    400170: Skeletal_Cervical_Vertebra
+    400172: Skeletal_Cranium
+    400174: Skeletal_Mandible
+    400176: Skeletal_Pelvis
+    400178: Skeletal_Pubis
+    400180: Skeletal_Ribs
+    400182: Skeletal_Sacrum
+    400184: Skeletal_Sternum
+    400186: Skeletal_Vertebral_Column
+    400188: SMan0001-HD2-Bip001
+    400190: SMan0001-HD2-Head001
+    400192: SMan0001-HD2-L Calf001
+    400194: SMan0001-HD2-L Clavicle001
+    400196: SMan0001-HD2-L Finger043
+    400198: SMan0001-HD2-L Finger044
+    400200: SMan0001-HD2-L Finger045
+    400202: SMan0001-HD2-L Finger046
+    400204: SMan0001-HD2-L Finger047
+    400206: SMan0001-HD2-L Finger048
+    400208: SMan0001-HD2-L Finger049
+    400210: SMan0001-HD2-L Finger050
+    400212: SMan0001-HD2-L Finger051
+    400214: SMan0001-HD2-L Finger052
+    400216: SMan0001-HD2-L Finger053
+    400218: SMan0001-HD2-L Finger054
+    400220: SMan0001-HD2-L Finger055
+    400222: SMan0001-HD2-L Finger056
+    400224: SMan0001-HD2-L Finger057
+    400226: SMan0001-HD2-L Foot001
+    400228: SMan0001-HD2-L Forearm001
+    400230: SMan0001-HD2-L Hand001
+    400232: SMan0001-HD2-L Thigh001
+    400234: SMan0001-HD2-L UpperArm001
+    400236: SMan0001-HD2-Neck002
+    400238: SMan0001-HD2-Neck003
+    400240: SMan0001-HD2-Pelvis001
+    400242: SMan0001-HD2-R Calf001
+    400244: SMan0001-HD2-R Clavicle001
+    400246: SMan0001-HD2-R Finger043
+    400248: SMan0001-HD2-R Finger044
+    400250: SMan0001-HD2-R Finger045
+    400252: SMan0001-HD2-R Finger046
+    400254: SMan0001-HD2-R Finger047
+    400256: SMan0001-HD2-R Finger048
+    400258: SMan0001-HD2-R Finger049
+    400260: SMan0001-HD2-R Finger050
+    400262: SMan0001-HD2-R Finger051
+    400264: SMan0001-HD2-R Finger052
+    400266: SMan0001-HD2-R Finger053
+    400268: SMan0001-HD2-R Finger054
+    400270: SMan0001-HD2-R Finger055
+    400272: SMan0001-HD2-R Finger056
+    400274: SMan0001-HD2-R Finger057
+    400276: SMan0001-HD2-R Foot001
+    400278: SMan0001-HD2-R Forearm001
+    400280: SMan0001-HD2-R Hand001
+    400282: SMan0001-HD2-R Thigh001
+    400284: SMan0001-HD2-R UpperArm001
+    400286: SMan0001-HD2-Spine004
+    400288: SMan0001-HD2-Spine005
+    400290: SMan0001-HD2-Spine006
+    400292: SMan0001-HD2-Spine007
+    2300000: L_Skeletal_Calcaneus
+    2300002: L_Skeletal_Carpal
+    2300004: L_Skeletal_Clavicle
+    2300006: L_Skeletal_Femur
+    2300008: L_Skeletal_Humerus
+    2300010: L_Skeletal_Malleolus
+    2300012: L_Skeletal_Metatarsal_00
+    2300014: L_Skeletal_Metatarsal_01
+    2300016: L_Skeletal_Metatarsal_02
+    2300018: L_Skeletal_Metatarsal_03
+    2300020: L_Skeletal_Metatarsal_04
+    2300022: L_Skeletal_Patella
+    2300024: L_Skeletal_Phalanges_Foot_00
+    2300026: L_Skeletal_Phalanges_Foot_01
+    2300028: L_Skeletal_Phalanges_Foot_02
+    2300030: L_Skeletal_Phalanges_Foot_03
+    2300032: L_Skeletal_Phalanges_Foot_04
+    2300034: L_Skeletal_Phalanges_Foot_05
+    2300036: L_Skeletal_Phalanges_Foot_06
+    2300038: L_Skeletal_Phalanges_Foot_07
+    2300040: L_Skeletal_Phalanges_Foot_08
+    2300042: L_Skeletal_Phalanges_Foot_09
+    2300044: L_Skeletal_Phalanges_Hand_00
+    2300046: L_Skeletal_Phalanges_Hand_01
+    2300048: L_Skeletal_Phalanges_Hand_02
+    2300050: L_Skeletal_Phalanges_Hand_03
+    2300052: L_Skeletal_Phalanges_Hand_04
+    2300054: L_Skeletal_Phalanges_Hand_05
+    2300056: L_Skeletal_Phalanges_Hand_06
+    2300058: L_Skeletal_Phalanges_Hand_07
+    2300060: L_Skeletal_Phalanges_Hand_08
+    2300062: L_Skeletal_Phalanges_Hand_09
+    2300064: L_Skeletal_Phalanges_Hand_10
+    2300066: L_Skeletal_Phalanges_Hand_11
+    2300068: L_Skeletal_Phalanges_Hand_12
+    2300070: L_Skeletal_Phalanges_Hand_13
+    2300072: L_Skeletal_Phalanges_Hand_14
+    2300074: L_Skeletal_Phalanges_Hand_15
+    2300076: L_Skeletal_Scapula
+    2300078: L_Skeletal_Tarsal
+    2300080: L_Skeletal_Tibia
+    2300082: L_Skeletal_Ulna/Radius
+    2300084: R_Skeletal_Calcaneus
+    2300086: R_Skeletal_Carpal
+    2300088: R_Skeletal_Clavicle
+    2300090: R_Skeletal_Femur
+    2300092: R_Skeletal_Humerus
+    2300094: R_Skeletal_Malleolus
+    2300096: R_Skeletal_Metatarsal_00
+    2300098: R_Skeletal_Metatarsal_01
+    2300100: R_Skeletal_Metatarsal_02
+    2300102: R_Skeletal_Metatarsal_03
+    2300104: R_Skeletal_Metatarsal_04
+    2300106: R_Skeletal_Patella
+    2300108: R_Skeletal_Phalanges_Foot_00
+    2300110: R_Skeletal_Phalanges_Foot_01
+    2300112: R_Skeletal_Phalanges_Foot_02
+    2300114: R_Skeletal_Phalanges_Foot_03
+    2300116: R_Skeletal_Phalanges_Foot_04
+    2300118: R_Skeletal_Phalanges_Foot_05
+    2300120: R_Skeletal_Phalanges_Foot_06
+    2300122: R_Skeletal_Phalanges_Foot_07
+    2300124: R_Skeletal_Phalanges_Foot_08
+    2300126: R_Skeletal_Phalanges_Foot_09
+    2300128: R_Skeletal_Phalanges_Hand_00
+    2300130: R_Skeletal_Phalanges_Hand_01
+    2300132: R_Skeletal_Phalanges_Hand_02
+    2300134: R_Skeletal_Phalanges_Hand_03
+    2300136: R_Skeletal_Phalanges_Hand_04
+    2300138: R_Skeletal_Phalanges_Hand_05
+    2300140: R_Skeletal_Phalanges_Hand_06
+    2300142: R_Skeletal_Phalanges_Hand_07
+    2300144: R_Skeletal_Phalanges_Hand_08
+    2300146: R_Skeletal_Phalanges_Hand_09
+    2300148: R_Skeletal_Phalanges_Hand_10
+    2300150: R_Skeletal_Phalanges_Hand_11
+    2300152: R_Skeletal_Phalanges_Hand_12
+    2300154: R_Skeletal_Phalanges_Hand_13
+    2300156: R_Skeletal_Phalanges_Hand_14
+    2300158: R_Skeletal_Phalanges_Hand_15
+    2300160: R_Skeletal_Scapula
+    2300162: R_Skeletal_Tarsal
+    2300164: R_Skeletal_Tibia
+    2300166: R_Skeletal_Ulna/Radius
+    2300168: Skeletal_Cervical_Vertebra
+    2300170: Skeletal_Cranium
+    2300172: Skeletal_Mandible
+    2300174: Skeletal_Pubis
+    2300176: Skeletal_Ribs
+    2300178: Skeletal_Sacrum
+    2300180: Skeletal_Sternum
+    2300182: Skeletal_Vertebral_Column
+    3300000: L_Skeletal_Calcaneus
+    3300002: L_Skeletal_Carpal
+    3300004: L_Skeletal_Clavicle
+    3300006: L_Skeletal_Femur
+    3300008: L_Skeletal_Humerus
+    3300010: L_Skeletal_Malleolus
+    3300012: L_Skeletal_Metatarsal_00
+    3300014: L_Skeletal_Metatarsal_01
+    3300016: L_Skeletal_Metatarsal_02
+    3300018: L_Skeletal_Metatarsal_03
+    3300020: L_Skeletal_Metatarsal_04
+    3300022: L_Skeletal_Patella
+    3300024: L_Skeletal_Phalanges_Foot_00
+    3300026: L_Skeletal_Phalanges_Foot_01
+    3300028: L_Skeletal_Phalanges_Foot_02
+    3300030: L_Skeletal_Phalanges_Foot_03
+    3300032: L_Skeletal_Phalanges_Foot_04
+    3300034: L_Skeletal_Phalanges_Foot_05
+    3300036: L_Skeletal_Phalanges_Foot_06
+    3300038: L_Skeletal_Phalanges_Foot_07
+    3300040: L_Skeletal_Phalanges_Foot_08
+    3300042: L_Skeletal_Phalanges_Foot_09
+    3300044: L_Skeletal_Phalanges_Hand_00
+    3300046: L_Skeletal_Phalanges_Hand_01
+    3300048: L_Skeletal_Phalanges_Hand_02
+    3300050: L_Skeletal_Phalanges_Hand_03
+    3300052: L_Skeletal_Phalanges_Hand_04
+    3300054: L_Skeletal_Phalanges_Hand_05
+    3300056: L_Skeletal_Phalanges_Hand_06
+    3300058: L_Skeletal_Phalanges_Hand_07
+    3300060: L_Skeletal_Phalanges_Hand_08
+    3300062: L_Skeletal_Phalanges_Hand_09
+    3300064: L_Skeletal_Phalanges_Hand_10
+    3300066: L_Skeletal_Phalanges_Hand_11
+    3300068: L_Skeletal_Phalanges_Hand_12
+    3300070: L_Skeletal_Phalanges_Hand_13
+    3300072: L_Skeletal_Phalanges_Hand_14
+    3300074: L_Skeletal_Phalanges_Hand_15
+    3300076: L_Skeletal_Scapula
+    3300078: L_Skeletal_Tarsal
+    3300080: L_Skeletal_Tibia
+    3300082: L_Skeletal_Ulna/Radius
+    3300084: R_Skeletal_Calcaneus
+    3300086: R_Skeletal_Carpal
+    3300088: R_Skeletal_Clavicle
+    3300090: R_Skeletal_Femur
+    3300092: R_Skeletal_Humerus
+    3300094: R_Skeletal_Malleolus
+    3300096: R_Skeletal_Metatarsal_00
+    3300098: R_Skeletal_Metatarsal_01
+    3300100: R_Skeletal_Metatarsal_02
+    3300102: R_Skeletal_Metatarsal_03
+    3300104: R_Skeletal_Metatarsal_04
+    3300106: R_Skeletal_Patella
+    3300108: R_Skeletal_Phalanges_Foot_00
+    3300110: R_Skeletal_Phalanges_Foot_01
+    3300112: R_Skeletal_Phalanges_Foot_02
+    3300114: R_Skeletal_Phalanges_Foot_03
+    3300116: R_Skeletal_Phalanges_Foot_04
+    3300118: R_Skeletal_Phalanges_Foot_05
+    3300120: R_Skeletal_Phalanges_Foot_06
+    3300122: R_Skeletal_Phalanges_Foot_07
+    3300124: R_Skeletal_Phalanges_Foot_08
+    3300126: R_Skeletal_Phalanges_Foot_09
+    3300128: R_Skeletal_Phalanges_Hand_00
+    3300130: R_Skeletal_Phalanges_Hand_01
+    3300132: R_Skeletal_Phalanges_Hand_02
+    3300134: R_Skeletal_Phalanges_Hand_03
+    3300136: R_Skeletal_Phalanges_Hand_04
+    3300138: R_Skeletal_Phalanges_Hand_05
+    3300140: R_Skeletal_Phalanges_Hand_06
+    3300142: R_Skeletal_Phalanges_Hand_07
+    3300144: R_Skeletal_Phalanges_Hand_08
+    3300146: R_Skeletal_Phalanges_Hand_09
+    3300148: R_Skeletal_Phalanges_Hand_10
+    3300150: R_Skeletal_Phalanges_Hand_11
+    3300152: R_Skeletal_Phalanges_Hand_12
+    3300154: R_Skeletal_Phalanges_Hand_13
+    3300156: R_Skeletal_Phalanges_Hand_14
+    3300158: R_Skeletal_Phalanges_Hand_15
+    3300160: R_Skeletal_Scapula
+    3300162: R_Skeletal_Tarsal
+    3300164: R_Skeletal_Tibia
+    3300166: R_Skeletal_Ulna/Radius
+    3300168: Skeletal_Cervical_Vertebra
+    3300170: Skeletal_Cranium
+    3300172: Skeletal_Mandible
+    3300174: Skeletal_Pubis
+    3300176: Skeletal_Ribs
+    3300178: Skeletal_Sacrum
+    3300180: Skeletal_Sternum
+    3300182: Skeletal_Vertebral_Column
+    4300000: Skeletal_Cranium
+    4300002: Skeletal_Mandible
+    4300004: L_Skeletal_Phalanges_Hand_02
+    4300006: L_Skeletal_Phalanges_Hand_01
+    4300008: L_Skeletal_Phalanges_Hand_00
+    4300010: L_Skeletal_Phalanges_Hand_14
+    4300012: L_Skeletal_Phalanges_Hand_12
+    4300014: L_Skeletal_Phalanges_Hand_04
+    4300016: L_Skeletal_Phalanges_Hand_15
+    4300018: L_Skeletal_Phalanges_Hand_09
+    4300020: L_Skeletal_Phalanges_Hand_13
+    4300022: L_Skeletal_Phalanges_Hand_07
+    4300024: L_Skeletal_Phalanges_Hand_08
+    4300026: L_Skeletal_Phalanges_Hand_06
+    4300028: L_Skeletal_Phalanges_Hand_05
+    4300030: L_Skeletal_Phalanges_Hand_11
+    4300032: L_Skeletal_Phalanges_Hand_10
+    4300034: L_Skeletal_Carpal
+    4300036: L_Skeletal_Phalanges_Hand_03
+    4300038: L_Skeletal_Ulna/Radius
+    4300040: L_Skeletal_Humerus
+    4300042: R_Skeletal_Phalanges_Hand_14
+    4300044: R_Skeletal_Phalanges_Hand_13
+    4300046: R_Skeletal_Phalanges_Hand_15
+    4300048: R_Skeletal_Phalanges_Hand_05
+    4300050: R_Skeletal_Phalanges_Hand_02
+    4300052: R_Skeletal_Phalanges_Hand_10
+    4300054: R_Skeletal_Phalanges_Hand_09
+    4300056: R_Skeletal_Phalanges_Hand_04
+    4300058: R_Skeletal_Phalanges_Hand_03
+    4300060: R_Skeletal_Phalanges_Hand_12
+    4300062: R_Skeletal_Phalanges_Hand_11
+    4300064: R_Skeletal_Phalanges_Hand_07
+    4300066: R_Skeletal_Phalanges_Hand_06
+    4300068: R_Skeletal_Phalanges_Hand_00
+    4300070: R_Skeletal_Phalanges_Hand_01
+    4300072: R_Skeletal_Carpal
+    4300074: R_Skeletal_Phalanges_Hand_08
+    4300076: R_Skeletal_Ulna/Radius
+    4300078: R_Skeletal_Humerus
+    4300080: L_Skeletal_Malleolus
+    4300082: L_Skeletal_Calcaneus
+    4300084: L_Skeletal_Tarsal
+    4300086: L_Skeletal_Metatarsal_03
+    4300088: L_Skeletal_Phalanges_Foot_07
+    4300090: L_Skeletal_Phalanges_Foot_00
+    4300092: L_Skeletal_Metatarsal_02
+    4300094: L_Skeletal_Phalanges_Foot_03
+    4300096: L_Skeletal_Phalanges_Foot_01
+    4300098: L_Skeletal_Metatarsal_04
+    4300100: L_Skeletal_Phalanges_Foot_04
+    4300102: L_Skeletal_Phalanges_Foot_02
+    4300104: L_Skeletal_Metatarsal_01
+    4300106: L_Skeletal_Phalanges_Foot_08
+    4300108: L_Skeletal_Phalanges_Foot_06
+    4300110: L_Skeletal_Metatarsal_00
+    4300112: L_Skeletal_Phalanges_Foot_09
+    4300114: L_Skeletal_Phalanges_Foot_05
+    4300116: L_Skeletal_Patella
+    4300118: L_Skeletal_Tibia
+    4300120: L_Skeletal_Femur
+    4300122: R_Skeletal_Malleolus
+    4300124: R_Skeletal_Calcaneus
+    4300126: R_Skeletal_Tarsal
+    4300128: R_Skeletal_Metatarsal_02
+    4300130: R_Skeletal_Phalanges_Foot_02
+    4300132: R_Skeletal_Phalanges_Foot_01
+    4300134: R_Skeletal_Metatarsal_01
+    4300136: R_Skeletal_Phalanges_Foot_03
+    4300138: R_Skeletal_Phalanges_Foot_00
+    4300140: R_Skeletal_Metatarsal_00
+    4300142: R_Skeletal_Phalanges_Foot_09
+    4300144: R_Skeletal_Phalanges_Foot_04
+    4300146: R_Skeletal_Metatarsal_03
+    4300148: R_Skeletal_Phalanges_Foot_06
+    4300150: R_Skeletal_Phalanges_Foot_05
+    4300152: R_Skeletal_Metatarsal_04
+    4300154: R_Skeletal_Phalanges_Foot_08
+    4300156: R_Skeletal_Phalanges_Foot_07
+    4300158: R_Skeletal_Patella
+    4300160: R_Skeletal_Tibia
+    4300162: R_Skeletal_Femur
+    4300164: Skeletal_Vertebral_Column
+    4300166: Skeletal_Cervical_Vertebra
+    4300168: Skeletal_Ribs
+    4300170: Skeletal_Sternum
+    4300172: L_Skeletal_Clavicle
+    4300174: R_Skeletal_Clavicle
+    4300176: L_Skeletal_Scapula
+    4300178: R_Skeletal_Scapula
+    4300180: Skeletal_Sacrum
+    4300182: Skeletal_Pubis
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
